@@ -1,5 +1,5 @@
 ![logo](https://github.com/NaseemTechCraft/NaseemTechCraft/blob/main/logo.png)
-<h1 align="center">Hi 👋, I'm Muhammad Naseem Hayyat</h1>
+<h1 align="center">Hi, I'm Muhammad Naseem Hayyat</h1>
 <h3 align="center">A passionate Website,Mobile Apps & Software Developer from Pakistan</h3>
 
 <img align="right" width="498" height="249" alt="image" src="https://github.com/user-attachments/assets/2b909339-eabc-49f8-a9ec-aedfab06d388" />
