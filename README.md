@@ -1,4 +1,4 @@
-![logo] (https://github.com/NaseemTechCraft/NaseemTechCraft/blob/main/logo.png)
+![logo](https://github.com/NaseemTechCraft/NaseemTechCraft/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Muhammad Naseem Hayyat</h1>
 <h3 align="center">A passionate Website,Mobile Apps & Software Developer from Pakistan</h3>
 
